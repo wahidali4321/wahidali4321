@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🎓 Data Science Student
-- 💻 Learning Web Development
-- 🤖 Interested in Machine Learning
-- 📊 Learning Python, NumPy and Matplotlib
+- 💻 Frontend web developer Web Development
+- 🤖 Interested in  Machine Learning
+- 📊 expert in TensorFlow , pytorch , Python, NumPy and Matplotlib
 
 ## 🛠️ Skills
 
@@ -14,13 +14,13 @@
 - Python
 - NumPy
 - Matplotlib
+- Pandas
+- Machine learning
+- deep learning
+- Computer vision
 - Git & GitHub
 
-## 📚 Currently Learning
 
-- Machine Learning
-- React
-- Data Science
 
 ## 📫 Connect With Me
 
