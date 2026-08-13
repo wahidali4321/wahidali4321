@@ -25,4 +25,4 @@
 ## 📫 Connect With Me
 
 - GitHub
-- LinkedIn
+- LinkedIn www.linkedin.com/in/wahid-ali-640849405
