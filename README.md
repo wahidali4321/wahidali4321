@@ -19,6 +19,8 @@
 - deep learning
 - Computer vision
 - Git & GitHub
+- sklearn
+- 
 
 
 
