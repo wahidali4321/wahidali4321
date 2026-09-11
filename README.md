@@ -20,7 +20,11 @@
 - Computer vision
 - Git & GitHub
 - sklearn
-- 
+- codex
+- linear regression
+- logistic regression
+- SciPy
+
 
 
 
