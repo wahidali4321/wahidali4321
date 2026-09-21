@@ -24,6 +24,7 @@
 - linear regression
 - logistic regression
 - SciPy
+- SQL
 
 
 
